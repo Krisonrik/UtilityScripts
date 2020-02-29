@@ -73,7 +73,7 @@ def main(argv):
 
     name_list = {}
     ext_list = {}
-    print len(argv)
+    print (len(argv))
     # for e in argv:
     #     print e
     dir = argv[0] + "/"
